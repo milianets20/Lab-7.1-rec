@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  LAB 7.1 REC TEST.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 rec.cpp\Lab 7.1 rec\Lab 7.1 rec.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 rec.cpp\x64\Debug\LAB 7.1 REC TEST.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 rec.cpp\x64\Debug\LAB 7.1 REC TEST.exp
+  LAB 7.1 REC TEST.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 rec.cpp\x64\Debug\LAB 7.1 REC TEST.dll
